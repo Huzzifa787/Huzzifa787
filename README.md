@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/Huzzifa787"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzzifa787&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzzifa787&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>-->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Huzzifa787&&layout=compact&langs_count=8&theme=dracula&hide_border=false"/>
     <img height="180em" width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=Huzzifa787&theme=dracula&show_icons=true&locale=en&layout=demo&hide_border=false&border_radius=5" alt=Huzzifa787 />
     
