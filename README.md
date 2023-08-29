@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
 
 <p align="center">
-          <a href="https://github.com/Huzzifa787"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+%7C+SQL;HTML+%7C+CSS+%7C+JS+;Love+to+Learn+New+Technologies"](https://git.io/typing-svg)></a>
+          <a href="https://github.com/Huzzifa787"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+%7C+SQL;HTML+%7C+CSS+%7C+BS+%7C+JS+%7C+React-JS+;Love+to+Learn+New+Technologies"](https://git.io/typing-svg)></a>
 </p>
 
 
@@ -20,7 +20,7 @@
 
 - ⚡ I’m Currently Learning   **Full Stack Web Development**
 
-- ⚡ Ask Me About             **C , C++ , HTML , CSS , JavaScript , SQL**
+- ⚡ Ask Me About             **C , C++ , HTML , CSS , Bootstrap , JavaScript , React-JS , SQL, Python**
 
 - ⚡ Feel Free to Concact Me  **huzaifahafeez85@gmail.com**
 
@@ -40,7 +40,7 @@
 <h3 align="center">Languages and Tools </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,cpp,git,github,ai,mongodb,py,ai" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cs,cpp,git,github,ai,mongodb,py,react" />
   </a>
 </p>
 
